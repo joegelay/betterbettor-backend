@@ -1,3 +1,3 @@
 # betterbettor-backend
 
-Keep track of your bets across sportsbooks with BetterBettor.
+Keep track of your bets across multiple sportsbooks with BetterBettor.
